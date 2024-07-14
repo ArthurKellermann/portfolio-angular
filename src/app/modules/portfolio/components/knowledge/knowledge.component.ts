@@ -34,6 +34,5 @@ export class KnowledgeComponent {
       src: 'assets/icons/knowledge/nodejs.svg',
       alt: 'Nodejs Icon',
     },
-
   ]);
 }
